@@ -1,3 +1,4 @@
+Ref: [Minionguyjpro/Inno-Setup-Action](https://github.com/Minionguyjpro/Inno-Setup-Action), Thanks!
 # Inno-Setup-use-Action
 GitHub action to compile .iss (Inno Setup Script) files.
 ### Example Usage
