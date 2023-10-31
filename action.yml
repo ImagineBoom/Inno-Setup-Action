@@ -1,5 +1,6 @@
-name: 'Inno Setup Action'
-author: 'Minionguyjpro'
+name: 'Inno Setup use Action '
+origin_author: 'Minionguyjpro'
+updator: 'ImagineBoom'
 branding:
   icon: 'box'
   color: 'green'
