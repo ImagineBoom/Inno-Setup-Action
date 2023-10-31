@@ -11,7 +11,7 @@ inputs:
     required: true
   options:
     description: 'Extra arguments/options to include. Include the slashes for them.'
-    required: false
+    required: true
     
 runs:
   using: 'node16'
