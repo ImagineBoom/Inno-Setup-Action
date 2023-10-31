@@ -1,4 +1,4 @@
-# Inno-Setup-Action
+# Inno-Setup-use-Action
 GitHub action to compile .iss (Inno Setup Script) files.
 ### Example Usage
 Make for example the file ``/.github/workflows/build.yml`` with the following contents:
